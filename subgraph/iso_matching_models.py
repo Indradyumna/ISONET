@@ -32,7 +32,7 @@ from GMN.loss import euclidean_distance
 import GraphOTSim.python.layers as gotsim_layers
 from lap import lapjv
 from lap import lapmod
-import subgraph.NM as nm
+import subgraph.neuromatch as nm
 
 
 class OurMatchingModelSubgraphIsoData(object):
