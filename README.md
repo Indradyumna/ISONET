@@ -28,3 +28,21 @@ The notebooks folder contains .ipynb files which reproduce all the tables and fi
 Notes:
  - GPU usage is required
  - source code files are all in subgraph folder.
+
+Reference
+---------
+
+If you find the code useful, please cite our paper:
+
+	@inproceedings{roy2022interpretable,
+	  title={Interpretable neural subgraph matching for graph retrieval},
+	  author={Roy, Indradyumna and Velugoti, Venkata Sai Baba Reddy and Chakrabarti, Soumen and De, Abir},
+	  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+	  volume={36},
+	  number={7},
+	  pages={8115--8123},
+	  year={2022}
+	}
+
+Indradyumna Roy, Indian Institute of Technology - Bombay  
+indraroy15@cse.iitb.ac.in
