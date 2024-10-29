@@ -1,6 +1,6 @@
 # ISONET
 
-Interpretable Neural Subgraph Matching for Graph Retrieval
+[Interpretable Neural Subgraph Matching for Graph Retrieval] (https://cdn.aaai.org/ojs/20784/20784-13-24797-1-2-20220628.pdf)
 
 This directory contains code necessary for running ISONET experiments.
 
@@ -16,9 +16,9 @@ Please download the Dataset files from https://rebrand.ly/subgraph-isonet and re
 This contains the original datasets, the dataset splits and other intermediate data dumps for reproducing tables and plots.  
 
 
-#Run Eperiments
+#Run Experiments
 
-The command lines to used for training models are listed commands.txt
+The command lines used for training models are listed commands.txt
 Command lines specify the exact hyperparameter settings used to train the models. 
 
 #Reproduce plots and figures
