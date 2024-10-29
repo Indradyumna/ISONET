@@ -1,6 +1,6 @@
 # ISONET
 
-[Interpretable Neural Subgraph Matching for Graph Retrieval] (https://cdn.aaai.org/ojs/20784/20784-13-24797-1-2-20220628.pdf)
+[Interpretable Neural Subgraph Matching for Graph Retrieval](https://cdn.aaai.org/ojs/20784/20784-13-24797-1-2-20220628.pdf)
 
 This directory contains code necessary for running ISONET experiments.
 
