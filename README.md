@@ -18,7 +18,7 @@ This contains the original datasets, the dataset splits and other intermediate d
 
 #Run Experiments
 
-The command lines used for training models are listed commands.txt
+The command lines used for training models are listed commands.txt. 
 Command lines specify the exact hyperparameter settings used to train the models. 
 
 #Reproduce plots and figures
